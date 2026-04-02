@@ -1,0 +1,47 @@
+ZUBAYR - PROFESSIONAL CV
+
+CONTACT INFORMATION:
+- Phone: +998 XX XXX XXXX
+- Email: zubayr@example.com
+- Location: Uzbekistan
+- Telegram: t.me/ideveloper_a
+
+PROFESSIONAL SUMMARY:
+Creative web developer and designer with 4 years of professional experience in building responsive, user-friendly web applications. Specialized in modern web development, UI/UX design, and brand identity creation.
+
+TECHNICAL SKILLS:
+- Web Development: HTML5, CSS3, JavaScript ES6+, jQuery
+- Frontend: Bootstrap, Responsive Design, AOS Animation
+- Design: Adobe Suite, UI/UX, Brand Identity, Logo Design
+- Other: Git, GitHub, Lightbox Gallery, Form handling
+
+PROFESSIONAL EXPERIENCE:
+
+Web Developer & Designer (2020 - Present):
+- Developed responsive portfolio websites
+- Created custom animations and interactive UI elements
+- Implemented color theme customization system
+- Managed gallery filter functionality
+- Optimized websites for performance and SEO
+
+Key Projects:
+1. Personal Portfolio Website - Fully responsive with dynamic color themes and animations
+2. Gallery Showcase - Interactive filter system with lightbox functionality
+3. Brand Identity Projects - Logo design and branding guidelines
+
+EDUCATION:
+- Web Development Certificate (2020)
+- Ongoing skill development in modern frameworks and design trends
+
+SKILLS & EXPERTISE:
+- Web Development: 95%
+- Brand Identity: 80%
+- Logo Design: 90%
+
+LANGUAGES:
+- Uzbek (Native)
+- Russian (Fluent)
+- English (Intermediate)
+
+ABOUT ME:
+I'm passionate about creating beautiful digital products that solve real problems. I believe in the power of great design combined with solid development practices. Every project I work on reflects my commitment to excellence and attention to detail.
