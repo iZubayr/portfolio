@@ -474,10 +474,16 @@ var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script src="js/main.js"></script>
 
-  <script>
+ <script>
+  if (window.innerWidth < 768) {
+    document.querySelectorAll('[data-aos]').forEach(el => {
+      el.setAttribute('data-aos', 'fade-up');
+    });
+  }
+
   AOS.init({
     duration: 1000,
-    once: true      
+    once: true
   });
 </script>
 
