@@ -151,7 +151,7 @@ function filter(category) {
 // typer
 
 var typed = new Typed(".input",{
-  strings:["devoloper","freelancer","desinger"],
+  strings:["developer","freelancer","designer"],
   typeSpeed: 130,
   backSpeed: 120,
   loop: true,
